@@ -1,0 +1,38 @@
+.Test {
+    background-color: rgb(75, 158, 137);
+    height: 100%;
+}
+
+.PhilosophyContainer{
+    padding-top: 5%;
+    padding-bottom: 8%;
+}
+
+.PhilosophyIntroductionHorizontal {
+    font-size: 2vw;
+    color: white;
+    padding-left: 5%;
+}
+
+.PhilosophyBodyHorizontal {
+    color: white;
+    padding-left:5%;
+    padding-right:5%;
+    padding-top: 2%;
+    font-size: 2vw;
+}
+
+.PhilosophyIntroductionVertical {
+    color: white;
+    font-size: 2vh;
+    padding-left: 5%;
+}
+
+.PhilosophyBodyVertical {
+    color: white;
+    font-size: 3vh;
+    padding-left:5%;
+    padding-right:5%;
+    padding-top: 4%;
+}
+

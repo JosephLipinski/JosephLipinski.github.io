@@ -1,0 +1,54 @@
+.Navbar {
+    background-color: rgba(0, 0, 0, 0);
+    position: fixed;
+    height: 80px;
+    width: 100%;
+    color: white;
+    top: 0;
+    left: 0;
+    text-align:center;
+    transition:top 0.3s;
+}
+
+.hide{
+    top:-80px;
+}
+
+.CurrentPage {
+    transition: top 0.3s;
+
+    
+}
+
+.CurrentPage a{
+    color: white;
+    text-decoration: none;
+    padding-top: 25px;
+    font-size :20px;
+    float: left;
+    margin-left: 2%;
+}
+
+.CurrentPage a:hover,
+.CurrentPage a:active {
+    color: rgb(75, 158, 137);
+    
+}
+
+.Link {
+    float: right;
+    padding-top: 30px;
+    font-size: 15px;
+    padding-right: 3%;
+}
+
+.Link a {
+    color: white;
+    text-decoration: none;
+    
+}
+
+.Link a:hover,
+.Link a:active {
+    color: rgb(75, 158, 137);
+}

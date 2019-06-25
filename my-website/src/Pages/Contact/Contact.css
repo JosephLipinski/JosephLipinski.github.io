@@ -1,0 +1,44 @@
+.ContactDiv {
+  height: 100vh;
+  width: 100vw;
+  background-color: rgb(54, 55, 66);
+}
+
+.ContactText {
+  text-align: center;
+  padding-top: 25vh;
+  padding-left: 5%;
+  padding-right: 5%;
+  color: white;
+  font-size: 4vh;
+}
+
+.HorizontalContainer {
+  color: white;
+  text-align: center;
+  padding:0;
+  
+}
+
+.HorizontalDiv {
+  padding-top: 3%;
+  padding-left: 0;
+  
+}
+
+.HorizontalDiv div {
+  font-size: 3vh;
+  text-decoration: none;
+  color: white;
+}
+
+.HorizontalDiv a {
+  font-size: 3vh;
+  text-decoration: none;
+  color: white;
+}
+
+a:hover,
+a:active{
+    color: rgb(31, 199, 157);
+}

@@ -1,0 +1,53 @@
+.HorizontalCarouselRow {
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+
+.HorizontalButtonLeftColumn{
+    float: left;
+    height: 100%;
+    width: 10%;
+    padding-top:20%;
+}
+
+.HorizontalButtonLeftColumn img {
+    width: 100%;
+}
+
+.HorizontalImageColumn{
+    float: left;
+    width: 80%;
+}
+
+.HorizontalImageColumn img {
+    width: 100%;
+}
+
+.HorizontalButtonRightColumn{
+    float: right;
+    height: 100%;
+    width: 10%;
+    padding-top: 20%;
+}
+
+.HorizontalButtonRightColumn img {
+    width: 100%;
+}
+
+.VerticalCarouselRow {
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+
+.VerticalImageColumn {
+    float: left;
+    height: 100%;
+    width: 100%;
+}
+
+.VerticalImageColumn img {
+    padding-left: 10%;
+    width: 80%;
+}

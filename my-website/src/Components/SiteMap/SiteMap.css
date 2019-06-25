@@ -1,0 +1,101 @@
+.HorizontalSiteMap {
+    background-color: rgb(54, 55, 66);
+    display: table;
+    height: 100%;
+    width: 100%;
+}
+
+.HorizontalLeftSiteMap {
+    float: left;
+    width: 50%;
+    height: 100%;
+}
+
+.HorizontalRightSiteMap {
+    float: right;
+    width: 50%;
+    height: 100%;
+}
+
+.HorizontalContainerSiteMap {
+    color: white;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin-bottom: 5%;
+}
+
+.HorizontalHeadingSiteMap {
+    text-align: left;
+    padding-left: 33%;
+    padding-top: 5%;
+    left: 0;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    
+    
+}
+
+.HorizontalHeadingSiteMap h1 {
+    padding-bottom: 0;
+    margin-bottom: 0;
+    font-size: 3vw;
+    
+}
+
+.HorizontalDivSiteMap {
+    padding-top: 2%;
+    text-align: left;
+    padding-left: 33%;
+}
+
+.HorizontalDivSiteMap a {
+    font-size: 2vw;
+    
+    color: white;
+    text-decoration: none;
+}
+
+.VerticalSiteMap {
+    display: table;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(54, 55, 66);
+    color: white;
+}
+
+.VerticalSiteMapContainer {
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.VerticalSiteMapHeading {
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-size: 2vh;
+}
+
+.VerticalSiteMapHeading a {
+   
+    margin: 0;
+}
+
+.VerticalSiteMapLink {
+    text-decoration: none;
+    font-size: 3vh;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.VerticalSiteMapLink a {
+    color: white;
+    text-decoration: none;
+    padding-top: 2%;
+}
+
+a:hover,
+a:active{
+    color: rgb(31, 199, 157);
+}
